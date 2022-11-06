@@ -1,0 +1,23 @@
+List of components
+	App,Form,Task,Filter
+
+App component
+Components created are rendered in App component and is the parent of these components
+React state hooks variables are created in App component and used as props to Form component 
+
+Form component
+Here in Form component used two way binding to get the entered data from form 
+and props concept to pass the data to the parent component i.e, App
+task,title,description,date,time these are the values we can get from Form component
+
+Task component
+Reusuable component which takes an object of data as props from App component and renders the data
+
+Filter component 
+It used to filter the task i.e, to show the upcoming three tasks and all 
+Here we used props concept to pass the data from this component to parent component i.e, App
+
+
+
+
+ 
