@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/task-creator/static/css/main.a0233199.css",
+    "main.js": "/task-creator/static/js/main.59f5c9ee.js",
+    "static/js/787.25a4f316.chunk.js": "/task-creator/static/js/787.25a4f316.chunk.js",
+    "index.html": "/task-creator/index.html",
+    "main.a0233199.css.map": "/task-creator/static/css/main.a0233199.css.map",
+    "main.59f5c9ee.js.map": "/task-creator/static/js/main.59f5c9ee.js.map",
+    "787.25a4f316.chunk.js.map": "/task-creator/static/js/787.25a4f316.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0233199.css",
+    "static/js/main.59f5c9ee.js"
+  ]
+}
