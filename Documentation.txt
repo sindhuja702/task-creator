@@ -25,4 +25,5 @@ Showing upcoming tasks and all tasks filtering logic
 	The data in task variable sorted using time and date and used sliced first 3 objects and this will be done 
 	using a state variable filterText and Filter component
 
+For styling, used bootstrap classes by importing cdn of bootstrap in index.html of public folder
  
